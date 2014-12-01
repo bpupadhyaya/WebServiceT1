@@ -1,0 +1,2 @@
+serviceClass: com.equalinformation.tools.webservice.testing.client.GreetingService
+path: 5196B0BBED7CAEB6F8BB2C4D93BBC6EF.gwt.rpc

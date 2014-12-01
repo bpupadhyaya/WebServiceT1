@@ -1,0 +1,3 @@
+# Module webservicet
+# RPC service class, partial path of RPC policy file
+com.equalinformation.tools.webservice.testing.client.GreetingService, 5196B0BBED7CAEB6F8BB2C4D93BBC6EF.gwt.rpc
